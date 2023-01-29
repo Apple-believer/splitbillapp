@@ -10,4 +10,5 @@
 -  入力前にキーボードが出てきて、入力後にキーボードが閉じる機能をつけたいと思いました。
 
 ## ④質問・疑問・感想、シェアしたいこと等なんでも
-- 　ffmpeg -i demo12.mov -vf scale=320:-1 -r 10 demo12.gif
+- ![demo12](https://user-images.githubusercontent.com/85817557/215348508-e7d3ccdd-861b-4b82-afe2-b191d112e2b3.gif)
+
